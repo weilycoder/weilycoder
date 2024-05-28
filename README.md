@@ -2,7 +2,7 @@
 [![Codeforces Rating of @weily](https://cfrating.baoshuo.dev/rating?username=weily&style=flat)](https://codeforces/profile/weily)
 [![AtCoder Rating of @weily](https://atrating.baoshuo.dev/rating?username=weily&style=flat)](https://atcoder.jp/users/weily)
 
-![pe account](https://img2.imgtp.com/2024/05/28/l22ccCqj.png)
+![pe account](https://projecteuler.net/profile/weily09.png)
 
 > 朝乾夕惕，功不唐捐。
 
