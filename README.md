@@ -8,8 +8,8 @@
 
 > 朝乾夕惕，功不唐捐。
 
-- 👋 Hi, I’m @weilycoder
-- 🇨🇳 来自中国的一名高中生
+- 👋 Hi, I’m @weilycoder / William Wei
+- 🇨🇳 来自中国的一名高中生 A student from China.
 - 👀 对数学和计算机科学很感兴趣
 - 🌱 现为[山东省实验中学](http://sdshiyan.jinan.cn/)一名信竞生
 - 💞️ 正在学习算法竞赛（Olympiad in Informatics）
