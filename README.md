@@ -2,8 +2,7 @@
 [![Codeforces Rating of @weily](https://cfrating.baoshuo.dev/rating?username=weily&style=flat)](https://codeforces.com/profile/weily)
 [![AtCoder Rating of @weily](https://atrating.baoshuo.dev/rating?username=weily&style=flat)](https://atcoder.jp/users/weily)
 [![github](https://img.shields.io/badge/github-weilycoder-blue?logo=github)](https://github.com/weilycoder)
-
-<!--[![Hugo](https://img.shields.io/badge/Blog-weily09-FF4088?logo=Hugo)](https://weilycoder.github.io/)-->
+[![Hugo](https://img.shields.io/badge/Blog-weily09-FF4088?logo=Hugo)](https://weilycoder.github.io/)
 
 ![pe account](https://projecteuler.net/profile/weily09.png)
 
