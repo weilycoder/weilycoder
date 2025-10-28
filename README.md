@@ -1,4 +1,3 @@
-[![Page Views Count](https://badges.toozhao.com/badges/01HYYXADZH998DH2N5QTGZSZG1/green.svg)](https://badges.toozhao.com/stats/01HYYXADZH998DH2N5QTGZSZG1)
 [![Codeforces Rating of @weily](https://cfrating.baoshuo.dev/rating?username=weily&style=flat)](https://codeforces.com/profile/weily)
 [![AtCoder Rating of @weily](https://atrating.baoshuo.dev/rating?username=weily&style=flat)](https://atcoder.jp/users/weily)
 [![github](https://img.shields.io/badge/github-weilycoder-blue?logo=github)](https://github.com/weilycoder)
