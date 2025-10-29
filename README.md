@@ -19,11 +19,8 @@
 - 📫 How to reach me ...
   - QQ: 1991809701 / 40726462
   - e-mail: [weily2009@outlook.com](mailto:weily2009@outlook.com)
-  - luogu: [wly09](https://www.luogu.com/user/818693)
+  - luogu: [weilycoder](https://www.luogu.com/user/818693)
 - ⚡ 已成为 [OI-wiki](https://github.com/OI-wiki/OI-wiki) 贡献者！
-- ⚡ 是 [CYaRon](https://github.com/luogu-dev/cyaron) 的贡献者之一！
-
-> Page Views Count 是我所有个人介绍页面公用的，而且大多数是我访问 :(
 
 <!---
 weilycoder/weilycoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
